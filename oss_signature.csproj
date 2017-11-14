@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+<ItemGroup>
+		<PackageReference Include="Google.Protobuf" Version="3.3.0" />
+		<PackageReference Include="Microsoft.Extensions.Caching.Abstractions" Version="2.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Logging" Version="2.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="2.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="2.0.0" />
+		<PackageReference Include="Npgsql" Version="3.2.5" />
+		<PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+		<PackageReference Include="System.Collections.Specialized" Version="4.3.0" />
+		<PackageReference Include="System.Diagnostics.TextWriterTraceListener" Version="4.3.0" />
+		<PackageReference Include="System.IO.FileSystem.Watcher" Version="4.3.0" />
+		<PackageReference Include="System.Runtime.Serialization.Formatters" Version="4.3.0" />
+		<PackageReference Include="System.Runtime.Serialization.Json" Version="4.3.0" />
+		<PackageReference Include="System.Threading.Thread" Version="4.3.0" />
+		<PackageReference Include="System.ValueTuple" Version="4.4.0" />
+		<PackageReference Include="System.Xml.XmlDocument" Version="4.3.0" />
+	</ItemGroup>
+</Project>
