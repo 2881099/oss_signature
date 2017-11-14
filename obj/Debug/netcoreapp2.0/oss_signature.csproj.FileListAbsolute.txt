@@ -1,0 +1,10 @@
+c:\Users\Administrator\Desktop\oss_signature\oss_signature\bin\Debug\netcoreapp2.0\oss_signature.deps.json
+c:\Users\Administrator\Desktop\oss_signature\oss_signature\bin\Debug\netcoreapp2.0\oss_signature.runtimeconfig.json
+c:\Users\Administrator\Desktop\oss_signature\oss_signature\bin\Debug\netcoreapp2.0\oss_signature.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\oss_signature\oss_signature\bin\Debug\netcoreapp2.0\oss_signature.dll
+c:\Users\Administrator\Desktop\oss_signature\oss_signature\bin\Debug\netcoreapp2.0\oss_signature.pdb
+c:\Users\Administrator\Desktop\oss_signature\oss_signature\obj\Debug\netcoreapp2.0\oss_signature.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\oss_signature\oss_signature\obj\Debug\netcoreapp2.0\oss_signature.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\oss_signature\oss_signature\obj\Debug\netcoreapp2.0\oss_signature.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\oss_signature\oss_signature\obj\Debug\netcoreapp2.0\oss_signature.dll
+c:\Users\Administrator\Desktop\oss_signature\oss_signature\obj\Debug\netcoreapp2.0\oss_signature.pdb
